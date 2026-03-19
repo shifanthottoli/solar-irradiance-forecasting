@@ -139,8 +139,5 @@ If you use this work, please cite:
 "Attention-Enhanced Spatio-Temporal Deep Learning Model for Solar Irradiance Forecasting." 2024.
 ```
 
----
 
-## 📬 Contact
 
-Feel free to open an issue or start a discussion on this repository.
